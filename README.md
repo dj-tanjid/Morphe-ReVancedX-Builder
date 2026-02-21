@@ -13,7 +13,7 @@ Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube
 <details><summary><big>Features</big></summary>
 <ul>
  <li> Supports all present and future ReVanced & Morphe apps (including projects implementing the same API)</li>
- <li> Can build Magisk modules and non-root APKs</li>
+ <li> Can build root Modules and non-root APKs</li>
  <li> Updated daily with the latest versions of apps and patches</li>
  <li> Optimizes APKs and modules for size</li>
  <li> Modules</li>
