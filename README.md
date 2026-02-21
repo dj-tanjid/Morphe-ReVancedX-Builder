@@ -10,27 +10,7 @@ A fork of [ReVanced Builder](https://github.com/j-hc/revanced-magisk-module) by 
 
 This ReVanced/Morphe builder creates both APKs and [Magisk](https://github.com/topjohnwu/Magisk)/[KernelSU](https://github.com/tiann/KernelSU) modules for [ReVanced](https://github.com/ReVanced), [ReVanced Extended by Anddea](https://github.com/anddea/revanced-patches), and [Morphe](https://github.com/MorpheApp) versions of **YouTube**, **YouTube Music**, **Google Photos** & **Reddit**.
 
-#### **Get the [**Latest Release**](../../releases/latest)!**
-
-## Installation
-### Non-root users
-- Install the [ReVanced GmsCore app](https://github.com/ReVanced/GmsCore/releases/latest) or the [Morphe MicroG-RE app](https://github.com/MorpheApp/MicroG-RE/releases/latest).
-- Download the APK files you want to install from the [releases page](../../releases/latest).
-- (Optional) Import one of my [**Custom Settings**](../teejay/custom_settings-by_tanjid) into your application. [*How to do this?*](https://github.com/dj-tanjid/Morphe-ReVancedX-Builder/?tab=readme-ov-file#import-custom-settings-in-revancedmorphe-applications)
-- Enjoy!
-
-### Root users
-- Download the ZIP files you want to flash from the [releases page](../../releases/latest).
-- (Optional) Import one of my [**Custom Settings**](../teejay/custom_settings-by_tanjid) into your application. [*How to do this?*](https://github.com/dj-tanjid/Morphe-ReVancedX-Builder/?tab=readme-ov-file#import-custom-settings-in-revancedmorphe-applications)
-- (Optional) Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules.
-- Enjoy!
-
-## Import custom settings in ReVanced/Morphe applications
-I personally like my YouTube and YouTube Music applications to be as close as possible to the original look, but less cluttered, easier, and less annoying to use. If you feel the same, I highly recommend importing [my custom settings files](../teejay/custom_settings-by_tanjid).
-
-**To do this, go to YouTube Settings &rarr; ReVanced/ReVanced Extended/Morphe &rarr; Miscellaneous &rarr; Import&nbsp;/&nbsp;Export settings.**
-
-<details><summary><big>#Features</big></summary>
+<details><summary><big>Features</big></summary>
 <ul>
  <li> Supports all present and future ReVanced & Morphe apps (including projects implementing the same API)</li>
  <li> Can build root Modules and non-root APKs</li>
@@ -46,6 +26,26 @@ I personally like my YouTube and YouTube Music applications to be as close as po
     </ul>
 </ul>
 </details>
+
+#### **Get the [**Latest Release**](../../releases/latest)!**
+
+## Installation
+### Non-root users
+- Install the [ReVanced GmsCore app](https://github.com/ReVanced/GmsCore/releases/latest) or the [Morphe MicroG-RE app](https://github.com/MorpheApp/MicroG-RE/releases/latest).
+- Download the APK files you want to install from the [releases page](../../releases/latest).
+- (Optional) Import one of my [**Custom Settings**](../teejay/custom_settings-by_tanjid) into your application. [*How to do this?*](https://github.com/dj-tanjid/Morphe-ReVancedX-Builder/teejay/?tab=readme-ov-file#import-custom-settings-in-revancedmorphe-applications)
+- Enjoy!
+
+### Root users
+- Download the ZIP files you want to flash from the [releases page](../../releases/latest).
+- (Optional) Import one of my [**Custom Settings**](../teejay/custom_settings-by_tanjid) into your application. [*How to do this?*](https://github.com/dj-tanjid/Morphe-ReVancedX-Builder/teejay/?tab=readme-ov-file#import-custom-settings-in-revancedmorphe-applications)
+- (Optional) Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules.
+- Enjoy!
+
+## Import custom settings in ReVanced/Morphe applications
+I personally like my YouTube and YouTube Music applications to be as close as possible to the original look, but less cluttered, easier, and less annoying to use. If you feel the same, I highly recommend importing [my custom settings files](../teejay/custom_settings-by_tanjid).
+
+**To do this, go to YouTube Settings &rarr; ReVanced/ReVanced Extended/Morphe &rarr; Miscellaneous &rarr; Import&nbsp;/&nbsp;Export settings.**
 
 ## To include/exclude patches or patch other apps
 
