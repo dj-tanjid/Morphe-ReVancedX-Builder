@@ -1,8 +1,9 @@
-# ReVanced Magisk Module
+# ReVanced x Morphe Builder by TanJid
 
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
 Extensive ReVanced builder by TanJid Creations
+
 A fork of [ReVanced Builder](https://github.com/j-hc/revanced-magisk-module) by j-hc
 
 Get the [latest release](https://github.com/dj-tanjid/Morphe-ReVancedX-Builder/releases).
