@@ -38,7 +38,7 @@ This ReVanced/Morphe builder creates both APKs and [Magisk](https://github.com/t
 
 ### Root users
 - Download the ZIP files you want to flash from the [releases page](../../releases/latest).
-- (Optional) Import one of my [**Custom Settings**](../teejay/custom_settings-by_tanjid) into your application. [*How to do this?*](https://github.com/dj-tanjid/Morphe-ReVancedX-Builder/teejay/?tab=readme-ov-file#import-custom-settings-in-revancedmorphe-applications)
+- (Optional) Import one of my [**Custom Settings**](../teejay/custom_settings-by_tanjid) into your application. [*How to do this?*](../teejay/?tab=readme-ov-file#import-custom-settings-in-revancedmorphe-applications)
 - (Optional) Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules.
 - Enjoy!
 
