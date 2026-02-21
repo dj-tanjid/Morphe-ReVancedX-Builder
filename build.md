@@ -1,6 +1,6 @@
-YouTube-Morphe: 21.08.265  
 YT-Music-Morphe: 9.07.51  
 Google-Photos-ReVanced: 7.63.0.869312946  
+YouTube-Morphe: 21.08.265  
 Reddit-Morphe: 2026.04.0  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
