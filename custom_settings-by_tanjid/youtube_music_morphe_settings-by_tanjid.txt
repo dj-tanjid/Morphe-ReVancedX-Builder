@@ -1,0 +1,6 @@
+"custom_branding_icon": "original",
+"hide_fullscreen_ads": true,
+"music_change_miniplayer_color": true,
+"music_hide_cast_button": false, 
+"music_hide_navigation_bar_samples_button": true,
+"spoof_video_streams_client_type": "android_music_no_sdk"
