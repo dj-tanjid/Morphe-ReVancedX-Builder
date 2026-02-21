@@ -27,7 +27,7 @@ Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube
 </ul>
 </details>
 
-You can use my [**Custom Settings**](../custom_settings-by_tanjid) in YouTube and YouTube Music Morphe Apps
+You can use my [**Custom Settings**](../teejay/custom_settings-by_tanjid) in YouTube and YouTube Music Morphe Apps
 
 ## To include/exclude patches or patch other apps
 
