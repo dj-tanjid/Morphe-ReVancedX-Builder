@@ -8,18 +8,18 @@ A fork of [ReVanced Builder](https://github.com/j-hc/revanced-magisk-module) by 
 
 Get the [latest release](https://github.com/dj-tanjid/Morphe-ReVancedX-Builder/releases/latest).
 
-Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
+Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules.
 
 <details><summary><big>Features</big></summary>
 <ul>
- <li> Supports all present and future ReVanced apps (including projects implementing the same API)</li>
+ <li> Supports all present and future ReVanced & Morphe apps (including projects implementing the same API)</li>
  <li> Can build Magisk modules and non-root APKs</li>
  <li> Updated daily with the latest versions of apps and patches</li>
  <li> Optimizes APKs and modules for size</li>
  <li> Modules</li>
     <ul>
      <li> recompile invalidated odex for faster usage</li>
-     <li> receive updates from Magisk app</li>
+     <li> receive updates from Magisk/KSU app</li>
      <li> do not break safetynet or trigger root detections</li>
      <li> handle installation of the correct version of the stock app and all that</li>
      <li> support Magisk and KernelSU</li>
@@ -43,16 +43,3 @@ such as,
 - **"Suspicious mount detected"** warnings from root detector apps
 
 You can consider using [rvmm-zygisk-mount](https://github.com/j-hc/rvmm-zygisk-mount)
-
-## Building Locally
-### On Termux
-```console
-bash <(curl -sSf https://raw.githubusercontent.com/j-hc/revanced-magisk-module/main/build-termux.sh)
-```
-
-### On Linux
-```console
-$ git clone https://github.com/j-hc/revanced-magisk-module --depth 1
-$ cd revanced-magisk-module
-$ ./build.sh
-```
