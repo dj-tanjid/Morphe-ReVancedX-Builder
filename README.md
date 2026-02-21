@@ -6,7 +6,7 @@ Extensive ReVanced builder by TanJid Creations
 
 A fork of [ReVanced Builder](https://github.com/j-hc/revanced-magisk-module) by j-hc
 
-Get the [latest release](https://github.com/dj-tanjid/Morphe-ReVancedX-Builder/releases/latest).
+Get the [latest release](../../releases/latest).
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules.
 
@@ -26,6 +26,8 @@ Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube
     </ul>
 </ul>
 </details>
+
+You can use my [Custom Settings](../../custom_settings-by_tanjid) in YouTube and YouTube Music Morphe Apps
 
 ## To include/exclude patches or patch other apps
 
